@@ -1,0 +1,25 @@
+---
+title: "Projects"
+---
+
+| **Projekt** | **Technologia** | **Opis** |
+|----|----|----|
+| Optymalizator Drzemek | Python, AI | Algorytm planujący optymalne pory na drzemki. |
+| Aplikacja "Myszo-Tracker 3000" | JavaScript, AI | System rozpoznający myszy z użyciem AI. |
+| Koci Interfejs Drzemkowy | UX/UI Design, Figma | Projekt intuicyjnego interfejsu dla kotów. |
+| Symulator Polowań | Python | Symulacja strategii polowania dla kocurów. |
+| Asystent "Koci Kalendarz" | JavaScript, React | Aplikacja organizująca czas na zabawę i sen. |
+
+::: {.callout-tip title="Uwaga!" appearance="simple"}
+Nie wiem co jeszcze mogę tu dodać dlatego zaserwuje zdjęcia kotów. Miłego dzionka!
+:::
+
+::: {layout-nrow="2"}
+![kot typu śpiący](kot7.jpg){width="736"}
+
+![kot typu artysta](kot8.jpg){width="736"}
+
+![kot typu smart](kot9.jpg)
+
+![kot typu hazardzista](10.jpg)
+:::

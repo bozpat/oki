@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Moja super fajna stronka"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - projects.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
+

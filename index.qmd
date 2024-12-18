@@ -1,0 +1,16 @@
+---
+title: "Patrycja Bożek"
+image: kot3.jpg
+about:
+  template: jolla
+  links: 
+    - icon: ikonka.jpeg
+      text: link do fajnych kotków
+      href: https://www.youtube.com/watch?v=xvFZjo5PgG0
+---
+
+Jestem ~~mega wychillowanym ziomkiem~~ kotem, który uwielbia programować, choć czasami laptop jest tylko wygodnym miejscem do drzemki. Uważam, że „Mouse Wars” to jest absolutny hit. W wolnym czasie poluję na myszy, a w głębi serca marzę, by stać się jak Obi Mouse Kenobi – mistrz kodowania i polowania.
+
+::: {.callout-important title="Uwaga!" appearance="simple"}
+Mam nadzieję, że nie będzie Pan zły, ale użyłam na tej stronie template *jolla* ze strony [quarto](https://quarto.org/docs/websites/website-about.html).
+:::
